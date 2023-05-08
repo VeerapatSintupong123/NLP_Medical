@@ -3,5 +3,3 @@ https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options
 https://huggingface.co/datasets/hendrycks_test
 
 https://huggingface.co/datasets/pubmed_qa
-
-https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options
