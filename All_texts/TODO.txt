@@ -1,0 +1,8 @@
+1. Search all datasets as possible
+2. Translate it
+3. Store data in Google sheet
+4. Make first generation model
+5. Test it and record result
+6. Make translation model 
+7. Translate all data 
+8. test generation model again and record result
