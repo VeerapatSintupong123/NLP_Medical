@@ -3,3 +3,5 @@ https://huggingface.co/datasets/GBaker/MedQA-USMLE-4-options
 https://huggingface.co/datasets/hendrycks_test
 
 https://huggingface.co/datasets/pubmed_qa
+
+https://www.kaggle.com/code/andrewhorton/nlp-assisted-meta-analysis-of-diabetes-and-covid19/notebook
